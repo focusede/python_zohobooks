@@ -14,7 +14,7 @@ access_token = '' # init token
 # Zoho Books API endpoints - us URLs
 auth_url = 'https://accounts.zoho.com/oauth/v2/auth'
 token_url = 'https://accounts.zoho.com/oauth/v2/token'
-api_url = 'https://books.zoho.com/api/v3/' 
+api_url = 'https://www.zohoapis.com/books/v3/' # updated new API url
 
 def get_refresh_token():
     try:
